@@ -11,7 +11,7 @@ So, keep calm & stay logic and strictly informative, please
 🧰 Toolbox 
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python Logo" width="50" height="50"/>
 
 <!--
 **GiancarloMartino/GiancarloMartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
