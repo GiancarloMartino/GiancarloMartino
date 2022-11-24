@@ -17,8 +17,6 @@ So, keep calm & stay logic and strictly informative, please
 ## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GianMartinoEntando&hide=java,html,css&theme=radical)](https://github.com/GianMartinoEntando/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloMartino&hide=java,html,css&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats)
 
-[![Giancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarloMartino&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats)
 
 [![Giancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianMartinoEntando&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats)
