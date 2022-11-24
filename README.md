@@ -12,8 +12,7 @@ So, keep calm & stay logic and strictly informative, please
 
 <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/python-4.svg" alt="python Logo" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logo/selenium-1" alt="selenium Logo" width="50" height="50"/>
-<img src="https://cdn.brandfetch.com/cypress.io/brand/idySJxmg4h" alt="cypress Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/selenium-1" alt="selenium Logo" width="50" height="50"/>
 
 <!--
 **GiancarloMartino/GiancarloMartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
