@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋, I'm Giancarlo Martino
+
+- 🔭 I’m an automation test engineer in Entando.Inc
+- 🌱 I’m currently learning Docker, Kubernetes and Machine Learning
+- 💬 Ask me about Chess, Jazz music, Java, Python, JS, Cypress.io, Selenium and Robot Framework
+- ⚡ Fun fact: I'm a philosopher enrolled in a BE in Computer Engineer. So, keep calm & stay logic and strictly informative, please
+
+
+
+🧰 Toolbox 
+<img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java Logo" width="50" height="50"/> <img src="https://cdn.worldvectorlogo.com/logos/python.svg" alt="CSS Logo" width="50" height="50"/>
 
 <!--
 **GiancarloMartino/GiancarloMartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
