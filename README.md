@@ -19,4 +19,3 @@ So, keep calm & stay logic and strictly informative, please
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiancarloMartino&hide=html,css,Cmake,makefile&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats) 
 
 [![Giancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GiancarloMartino&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats) 
-[![Giancarlo's GitHub stats](https://github-readme-stats.vercel.app/api?username=GianMartinoEntando&theme=radical)](https://github.com/GiancarloMartino/github-readme-stats) 
