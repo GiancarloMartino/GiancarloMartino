@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Giancarlo Martino
 
-- 🔭 I’m an Automation Test Engineer in TXT Group. I work in Movyon (Autostrade SPA) Test automation Factory
+- 🔭 I’m an Automation Test Engineer in TXT Group. I work in Movyon (Autostrade SPA) Test automation Factory.
 - 🌱 I’m currently learning Machine Learning and Logic Design.
 - 💬 Ask me about Chess, Jazz music, Java, Python, JS, Cypress.io, Selenium and Robot Framework
 - ⚡ Fun fact: I'm a philosopher enrolled in a BE in Computer Engineer. 
